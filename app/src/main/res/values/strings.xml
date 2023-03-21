@@ -1,0 +1,45 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="selected_item">Selected item:</string>
+    <string name="city_name">City Name</string>
+    <string name="your_api_key">Your API Key</string>
+    <string name="input_your_api_key">Input your api key</string>
+    <string name="submit">Submit</string>
+    <string name="api_key">ff9f895b2e884d6680530135202710</string>
+    <string name="celcius">Celcius</string>
+    <string name="celcius_value">Celcius Value</string>
+    <string name="location">Location</string>
+    <string name="fahrenheit">Fahrenheit</string>
+    <string name="fahrenheit_value">Fahrenheit Value</string>
+    <string name="kuala_lumpur">Kuala Lumpur</string>
+    <string name="hampers_lebaran">Hampers Lebaran</string>
+    <string name="hampers_type_a">Hampers Type A</string>
+    <string name="image">image</string>
+    <string name="idr_115_000">IDR 115.000</string>
+    <string name="_1">1</string>
+    <string name="star">star</string>
+    <string name="_8_terjual">| 8 Terjual</string>
+    <string name="info_produk">1 Tanaman (Philodendron burle-marxii)\n1 Kartu Ucapan (Christmas/New Year)\nCare Tips\nPaper Bag\nAdditional Cookies (Putri Salju/Choco Mede)</string>
+    <string name="_4_8">4.8</string>
+    <string name="deskripsi">Deskripsi</string>
+    <string name="rating_produk">Rating Produk</string>
+    <string name="_8_ulasan">(8 Ulasan)</string>
+    <string name="lihat_semua">Lihat Semua</string>
+    <string name="forward">forward</string>
+    <string name="checkout">Checkout</string>
+    <string name="shopping_cart">shopping cart</string>
+    <string name="add">add</string>
+    <string name="remove">remove</string>
+    <string name="layout_1_weather">Layout 1 (Weather)</string>
+    <string name="layout_2_detail_produk">Layout 2 (Detail Produk)</string>
+    <string name="detail_produk">Detail Produk</string>
+
+    <string-array name="city_name">
+        <item>Kuala Lumpur</item>
+        <item>Singapore</item>
+        <item>London</item>
+        <item>Jakarta</item>
+        <item>Sydney</item>
+        <item>Tokyo</item>
+    </string-array>
+</resources>
